@@ -1,0 +1,10 @@
+gajdaw_football:
+    resource: "@GajdawFootballBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+gajdaw_angaze:
+    resource: "@GajdawAngazeBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
